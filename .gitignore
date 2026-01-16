@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Generated files
+outputs/
+*.pdf
+
+# Vector DB
+chroma/
+chromadb/
+
+# OS
+.DS_Store
